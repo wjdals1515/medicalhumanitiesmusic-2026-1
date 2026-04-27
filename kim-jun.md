@@ -3,7 +3,7 @@ Title: BlackSwan
 Year: 2010
 Genre: Film
 Disease: OCD,EatingDisorder
-ICD: 8A45.oy
+ICD: F42,F50
 ---
 
 
